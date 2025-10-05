@@ -193,10 +193,8 @@ export const mockAccounts: Account[] = [
       fullName: 'Curtis James Jackson',
       email: 'c*@gmail.com',
       dateCreated: '10/5/2025', // m/d/y
-      username: "l",
-      password: "l",
-      // username: "curtisjames111",
-      // password: "@sirejackson",
+      username: "curtisjames111",
+      password: "@sirejackson",
     },
     bank_details: {
       account_type: 'Checking',
